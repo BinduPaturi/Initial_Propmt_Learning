@@ -1,1 +1,2 @@
-print("Hello Bindu, learning Git!")
+input = str()
+print("Hello", +str)
