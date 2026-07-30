@@ -62,7 +62,7 @@ from deepeval.models.base_model import DeepEvalBaseLLM
 
 # It's a convention — like a rule programmers follow to tell each other *"don't change this value!"*
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "#Your API Key Here"
 
 # Step 1 - Create Groq Judge Model (Gemma as Judge)
 
