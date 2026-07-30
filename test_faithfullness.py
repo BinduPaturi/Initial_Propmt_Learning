@@ -4,7 +4,7 @@ from deepeval.metrics import FaithfulnessMetric
 from deepeval.test_case import LLMTestCase
 from deepeval.models.base_model import DeepEvalBaseLLM
 
-GROQ_API_KEY = ""
+GROQ_API_KEY = "#Your API Key Here"
 
 
 class GroqJudge(DeepEvalBaseLLM):
